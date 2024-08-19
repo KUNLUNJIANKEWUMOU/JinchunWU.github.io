@@ -6,7 +6,7 @@ permalink: /publication/2024-04-24-paper-title-number-3
 excerpt: 'This paper is about the neuroergonomics of icons' design.'
 date: 2024-04-24
 venue: 'International Journal of Human–Computer Interaction'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Wu et al. (2024). &quot;Understanding Relations Between Product Icon Type, Feature Type, and Abstraction: Evidence From ERPs and Eye-Tracking Studys.&quot; <i>International Journal of Human–Computer Interaction</i>. 1(1).'
 ---

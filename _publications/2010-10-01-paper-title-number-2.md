@@ -4,5 +4,5 @@ collection: publications
 category: manuscripts
 date: 2024-8
 venue: 'Advanced Engineering Informatics'
-citation: 'Your Name, Wu. (2024). &quot;Paper Title Number 2.&quot; <i>Advanced Engineering Informatics</i>. 1(2).'
+citation: 'Wu et al. (2024). &quot;Paper Title Number 2.&quot; <i>Advanced Engineering Informatics</i>. 1(2).'
 ---

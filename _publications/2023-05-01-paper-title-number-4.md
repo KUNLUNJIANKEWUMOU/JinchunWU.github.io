@@ -8,5 +8,5 @@ date: 2023-05-01
 venue: 'Human Factors and Ergonomics in Manufacturing & Service Industries'
 slidesurl: 'http://academicpages.github.io/files/slides4.pdf'
 paperurl: 'http://academicpages.github.io/files/paper4.pdf'
-citation: 'Wu et al. (2023). &quot;Neural mechanisms behind semantic congruity of construction safety signs: An EEG investigation on construction workers.&quot; <i>Human Factors and Ergonomics in Manufacturing & Service Industries</i>. 1(2).'
+citation: 'Wu, J., Du, X., Tong, M., Guo, Q., Shao, J., Chabebe, A., & Xue, C. (2023). &quot;Neural mechanisms behind semantic congruity of construction safety signs: An EEG investigation on construction workers.&quot; <i>Human Factors and Ergonomics in Manufacturing & Service Industries</i>. 33(3), 229-245.'
 ---

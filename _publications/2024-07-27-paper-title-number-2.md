@@ -8,6 +8,6 @@ date: 2024-07-27
 venue: 'Sensors'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Wu et al. (2024). &quot;How the Degree of Anthropomorphism of Human-like Robots Affects Users’ Perceptual and Emotional Processing: Evidence from an EEG Study.&quot; <i>Sensors</i>. 1(2).'
+citation: 'Wu, J., Du, X., Liu, Y., Tang, W., & Xue, C. (2024). &quot;How the Degree of Anthropomorphism of Human-like Robots Affects Users’ Perceptual and Emotional Processing: Evidence from an EEG Study.&quot; <i>Sensors (Basel, Switzerland)</i>. 24(15).'
 ---
 

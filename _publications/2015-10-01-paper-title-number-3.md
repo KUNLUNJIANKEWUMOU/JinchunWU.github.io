@@ -1,7 +1,7 @@
 ---
-title: "Wu, J., Chen, X., Zhao, M., & Xue, C. (2024). Cognitive characteristics in wayfinding tasks in commercial and residential districts during daytime and nighttime: A comprehensive neuroergonomic study. Advanced Engineering Informatics, 61, 102534."
-collection: publications
-category: manuscripts
+#title: "Wu, J., Chen, X., Zhao, M., & Xue, C. (2024). Cognitive characteristics in wayfinding tasks in commercial and residential districts during daytime and nighttime: A comprehensive neuroergonomic study. Advanced Engineering Informatics, 61, 102534."
+Wu, J., Chen, X., Zhao, M., & Xue, C. (2024). Cognitive characteristics in wayfinding tasks in commercial and residential districts during daytime and nighttime: A comprehensive neuroergonomic study. Advanced Engineering Informatics, 61, 102534.
+#category: manuscripts
 #permalink: /publication/2015-10-01-paper-title-number-3
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 #date: 2015-10-01

@@ -2,9 +2,9 @@
 title: "How dynamic information layout in GIS interface affects users’ search performance: integrating visual motion cognition into map information design"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-08-18-paper-title-number-2
+permalink: /publication/2023-08-18-paper-title-number-6
 excerpt: 'This paper is about the neuroergonomics of anthropomorphism of human-like robots.'
-date: 2024-08-18
+date: 2023-08-18
 venue: 'Behaviour & Information Technology'
 slidesurl: 'http://academicpages.github.io/files/slides6.pdf'
 paperurl: 'http://academicpages.github.io/files/paper6.pdf'

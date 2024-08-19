@@ -1,5 +1,5 @@
 ---
-title: "Understanding Relations Between Product Icon Type, Feature Type, and Abstraction: Evidence From ERPs and Eye-Tracking Studys"
+title: "Understanding Relations Between Product Icon Type, Feature Type, and Abstraction Evidence From ERPs and Eye-Tracking Studys"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-04-24-paper-title-number-3

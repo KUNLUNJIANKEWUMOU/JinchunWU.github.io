@@ -28,18 +28,18 @@ Work experience
   * Supervisor: Professor Shengdong Zhao
 
 * 2020.09-2023.12: Research Assistant
-  * Southeast University
+  * Institute of Product Design and Human-Computer Interaction, Southeast University
   * Duties included: Project issues
   * Supervisor: Professor Chengqi Xue
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Human-computer Interaction 
+* NeuroDesign
+  * EEG, EEG hyperscanning
+  * fNIRS, fNIRS hyperscanning
+  * eye-tracking, EMG
+* Human Factors
 
 Publications
 ======

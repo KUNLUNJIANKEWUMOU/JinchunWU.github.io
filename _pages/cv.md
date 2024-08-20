@@ -31,6 +31,22 @@ Work experience
   * Institute of Product Design and Human-Computer Interaction, Southeast University
   * Duties included: Project issues
   * Supervisor: Prof. Chengqi Xue
+
+* 2020.09-2022.09: Research Assistant
+  * Joint Laboratory of Southeast University-Nanjing Street Light Management Office 
+  * Duties included: Project issues
+  * Supervisor: Prof. Chengqi Xue
+
+ * 2020.09-2023.12: Research Assistant
+  * Human Factors Engineering Laboratory, Department of Industrial Design, Southeast University
+  * Duties included: Laboratory management
+  * Supervisor: Prof. Chengqi Xue and Haiyan Wang
+
+* 2021.09-2022.09: Research Assistant
+  * Smart City and Lighting Joint Research and Development Center, Southeast University-Jiangsu Future City Public Space Development and Operation Co., LTD 
+  * Duties included: Project issues
+  * Supervisor: Prof. Chengqi Xue
+
   
 Skills
 ======
@@ -46,7 +62,29 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-   
+
+Competition Awards
+======
+* China College Students Industrial Design Competition, Special award, (China)
+* Singapore Art Design Contest, Silver, (Singapore)
+* Britain International Creative Competition, Bronze, (Britain)
+* Spark Design Award, Finalist, (Britain)
+* National Art Design Competition, Third prize, (China)
+* James Dyson Award, Finalist, (Britain)
+* IF Design Talent Award, Finalist, (Germany)
+
+Postgraduate Research Guidence
+======
+* Jiawei Jiao（Postgraduate，2020-2023） 
+* Zelei Pan（Postgraduate，2020-2023） 
+* Xin Chen（Postgraduate，2021-2024） 
+* Chenhao Li（Postgraduate，2021-2024） 
+* Chen Pan（Postgraduate，2021-2024） 
+* Mufan Zhao（Postgraduate，2022-2025） 
+* Yu Zhang（Postgraduate，2022-2025） 
+* Jinwen Wang（Postgraduate，2022-2025） 
+* Yuhan Zi (undergraduate, 2019-2023）
+
 Service
 ======
 * Member of Chinese Ergonomics Design Ergonomics Branch

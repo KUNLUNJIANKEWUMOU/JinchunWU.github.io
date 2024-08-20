@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Department of Industrial Design, Southeast University, 2025 (Ph.D part) 
-* M.S. in Department of Industrial Design, Southeast University, 2018 (Master Part)
-* B.S. in Department of Industrial Design, China University of Petroleum, 2014
+* Ph.D in Department of Industrial Design, Southeast University, 2020.09-present (Master-Ph.D project, Ph.D part) 
+* M.S. in Department of Industrial Design, Southeast University, 2018.09-2020.06 (Master-Ph.D project, Master Part)
+* B.S. in Department of Industrial Design, China University of Petroleum, 2014.09-2018.06
 
 Work experience
 ======
@@ -47,18 +47,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
+#Talks
+#======
+ # <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+ # {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
+#Teaching
+#======
+ # <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#  {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Member of Chinese Ergonomics Design Ergonomics Branch

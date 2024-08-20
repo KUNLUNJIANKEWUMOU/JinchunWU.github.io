@@ -11,6 +11,6 @@ I am Jinchun Wu, about to graduate from [Southeast University]([url](https://www
 My research interests include neurodesign and advanced Human-computer interaction, and multi-modal and multi-sensory integration of human-computer interaction based on human factors engineering. My main research during my PhD was the use of electrophysiological techniques such as EEG, fNIRS, eye tracking, EMG, and multimodal brain imaging techniques such as EEG hyperscanning and fNIRS hyperscanning to study the behavior characteristics of creative teams in the process of innovative design and its cross-brain coupling neural mechanisms. In addition, my research interests during the doctoral period also involved the human factor ergonomics evaluation of urban light environment, the human-machine interface design of complex information systems and the multi-sensory integration research of XR.
 
 
-You can find my CV here: Wu Jinchun's Curriculum Vitae.
+You can find my CV here: Wu Jinchun's [Curriculum Vitae](assets/Curriculum_Vitae.pdf).
 
 

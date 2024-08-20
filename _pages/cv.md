@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Department of Industrial Design, Southeast University, 2025 (expected, ph.d part) 
+* Ph.D in Department of Industrial Design, Southeast University, 2025 (Ph.D part) 
 * M.S. in Department of Industrial Design, Southeast University, 2018 (Master Part)
 * B.S. in Department of Industrial Design, China University of Petroleum, 2014
 

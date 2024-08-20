@@ -20,17 +20,17 @@ Work experience
 * 2024.01-2025.01: Lab researcher (Jiont ph.d)
   * Keio-NUS CUTE Center, Smart Systems Institute, National University of Singapore
   * Duties includes: Updates and improvements to template
-  * Supervisor: Professor Ching-Chiuan Yen
+  * Supervisor: Prof. Ching-Chiuan Yen
 
 * 2024.07-2025.01: Lab researcher (Jiont ph.d)
   * Synteraction Lab (NUS-HCI Lab), Smart Systems Institute, National University of Singapore
   * Duties included: Studies of motion sickness mathematical model 
-  * Supervisor: Professor Shengdong Zhao
+  * Supervisor: Prof. Shengdong Zhao
 
 * 2020.09-2023.12: Research Assistant
   * Institute of Product Design and Human-Computer Interaction, Southeast University
   * Duties included: Project issues
-  * Supervisor: Professor Chengqi Xue
+  * Supervisor: Prof. Chengqi Xue
   
 Skills
 ======

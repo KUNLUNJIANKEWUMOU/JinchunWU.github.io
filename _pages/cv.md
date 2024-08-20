@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Department of Industrial Design, Southeast University, 2025 (expected, ph.d part) 
+* M.S. in Department of Industrial Design, Southeast University, 2018 (Master Part)
+* B.S. in Department of Industrial Design, China University of Petroleum, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* 2024.01-2025.01: Lab researcher (Jiont ph.d)
+  * Keio-NUS CUTE Center, Smart Systems Institute, National University of Singapore
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Professor Ching-Chiuan Yen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024.07-2025.01: Lab researcher (Jiont ph.d)
+  * Synteraction Lab (NUS-HCI Lab), Smart Systems Institute, National University of Singapore
+  * Duties included: Studies of motion sickness mathematical model 
+  * Supervisor: Professor Shengdong Zhao
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020.09-2023.12: Research Assistant
+  * Southeast University
+  * Duties included: Project issues
+  * Supervisor: Professor Chengqi Xue
   
 Skills
 ======

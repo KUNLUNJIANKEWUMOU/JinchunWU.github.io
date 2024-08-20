@@ -63,6 +63,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+
 Competition Awards
 ======
 * China College Students Industrial Design Competition, Special award, (China)
@@ -72,6 +73,7 @@ Competition Awards
 * National Art Design Competition, Third prize, (China)
 * James Dyson Award, Finalist, (Britain)
 * IF Design Talent Award, Finalist, (Germany)
+
 
 Postgraduate Research Guidence
 ======
@@ -84,6 +86,7 @@ Postgraduate Research Guidence
 * Yu Zhang（Postgraduate，2022-2025） 
 * Jinwen Wang（Postgraduate，2022-2025） 
 * Yuhan Zi (undergraduate, 2019-2023）
+
 
 Service
 ======

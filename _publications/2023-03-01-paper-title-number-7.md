@@ -2,8 +2,8 @@
 title: "Effects of bath chairs on the behavior, muscle workload, and experience in independent bathing of the elderly: A Chinese case study"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-07-27-paper-title-number-2
-excerpt: 'This paper is about the neuroergonomics of anthropomorphism of human-like robots.'
+permalink: /publication/2023-03-01-paper-title-number-7
+excerpt: 'This paper is about the ergonomics in independent bathing of the elderly.'
 date: 2023-03-01
 venue: 'International Journal of Industrial Ergonomics'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
